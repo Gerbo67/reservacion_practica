@@ -46,7 +46,7 @@ class Notifications {
         'Sin acceso a internet',
         style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
       ),
-      subtitle: (_) => const Text('No podra ver la probabilidad de lluvia',
+      subtitle: (_) => const Text('No podrá ver la probabilidad de lluvia',
           style: TextStyle(color: Colors.white)),
       trailing: (cancel) => IconButton(
         icon: const Icon(Icons.cancel, color: Colors.white),
@@ -71,7 +71,7 @@ class Notifications {
         style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
       ),
       subtitle: (_) => const Text(
-          "Intenta de nuevo la acción se perdura contacte a soporte",
+          "Intenta de nuevo la acción, si perdura contacte a soporte",
           style: TextStyle(color: Colors.white)),
       trailing: (cancel) => IconButton(
         icon: const Icon(Icons.cancel, color: Colors.white),

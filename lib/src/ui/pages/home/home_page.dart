@@ -59,7 +59,7 @@ class HomePage extends StatelessWidget {
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Text(
-                                    "De momento no hay datos",
+                                    "De momento no hay datos disponibles",
                                     style: TextStyle(
                                         color: Configure.PRIMARY_BLACK
                                             .withOpacity(0.7),

@@ -86,7 +86,7 @@ class RegisterPage extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       Text(
-                        "¿Cual es la cancha que quiere reservar?",
+                        "¿Cuál es la cancha que quiere reservar?",
                         style: TextStyle(
                             color: Configure.PRIMARY_BLACK,
                             fontWeight: FontWeight.bold,
@@ -124,7 +124,7 @@ class RegisterPage extends StatelessWidget {
                     child: Column(
                       children: [
                         Text(
-                          "¿A que hora quiere resevar?",
+                          "¿A qué hora quiere reservar?",
                           style: TextStyle(
                               color: Configure.PRIMARY_BLACK,
                               fontWeight: FontWeight.bold,
